@@ -7,7 +7,7 @@
 
 3) Go to the Script editor.
 
-![script editor](https://pillow.s-ul.eu/iLfUuy9l.png)
+![script editor](1.jpg)
 
 4) Paste the contents of `google script.js`.
 
