@@ -13,7 +13,7 @@
 
 6) Copy the Webhook URL. Replace `WEBHOOKURL` at the top of the script with the URL you copied.
 
-![Copy Webhook URL.](2.jpg)
+![Copy Webhook URL.](2.png)
 
 7) Add a trigger by selecting Current project's triggers in the Edit menu, and creating a new trigger using the settings given below.
 
