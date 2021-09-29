@@ -1,4 +1,5 @@
 var POST_URL = "WEBBHOOK URL";
+var HANDSHAKE_KEY = "HANDSHAKE KEY";
 
 function onSubmit(e) {
     var form = FormApp.getActiveForm();
@@ -43,6 +44,7 @@ function onSubmit(e) {
         },
         "payload": JSON.stringify({
             "content": "Google Form to Webhook",
+            "hsKey": HANDSHAKE_KEY,
             "embeds": [{
                 "title": "Google Form to Webhook",
                 "fields": items,
